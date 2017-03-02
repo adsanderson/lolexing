@@ -14,8 +14,8 @@
     "lolex": "^1.5.2"
   },
   "devDependencies": {
-    "rollup": "^0.36.3",
-    "rollup-plugin-commonjs": "^5.0.5",
+    "rollup": "^0.41.4",
+    "rollup-plugin-commonjs": "^7.0.0",
     "rollup-plugin-node-resolve": "^2.0.0"
   }
 }
